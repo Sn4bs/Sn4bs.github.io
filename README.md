@@ -1,2 +1,2 @@
-# Sn4bs.github.io
-A site hosted with Github Pages.
+# Sn4bs
+A simple site hosted with Github Pages.
